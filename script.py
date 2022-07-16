@@ -26,7 +26,7 @@ background(colors)
 
 # 이름과 설명, 버튼에 들어갈 글 설정
 write("name", "박영민")
-write("description", "경운중 출신, 퉤에엣")
+write("description", "경운중 출신, 배고프다아아ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ")
 write("button", "꺼무위키")
 
 # 상세설명에 들어갈 제목과 글 설정
